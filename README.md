@@ -26,4 +26,4 @@ How to use:
   * press 'crtl' + 'c' to shut down the webserver
 * type 'deactivate' to leave the virtual environment
 
-##If any errors arise in this process, type the error message in chatgpt or contact me with any issues##
+## If any errors arise in this process, type the error message in chatgpt or contact me with any issues ##
