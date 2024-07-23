@@ -20,8 +20,10 @@ How to use:
   * this goes to the ip address that is on your laptop and goes to the application on port 5000
 * select the images you want to include
 * press submit on top left of webpage
+  * <img width="1726" alt="Screenshot 2024-07-22 at 10 19 49 PM" src="https://github.com/user-attachments/assets/0764a695-91df-49e5-8624-32b2a041051f">
 * double click on whitespace on new webpage (should be localhost/static/selected_images) and print --> save as pdf
   * can also just press cmd+p
+  * <img width="1723" alt="image" src="https://github.com/user-attachments/assets/7ea01502-834d-43e9-8f17-d26d6d115d47">
 * go back to VSCode terminal
   * press 'crtl' + 'c' to shut down the webserver
 * type 'deactivate' to leave the virtual environment
